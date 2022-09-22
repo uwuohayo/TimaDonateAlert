@@ -1,0 +1,10 @@
+name: TimaDonateAlert
+version: '${project.version}'
+main: ovh.rootkovskiy.timadonatealert.Main
+authors: [ timurroot ]
+description: Simple donate alert plugin
+website: www.rootkovskiy.ovh
+commands:
+  timadonatealert:
+    aliases:
+      - tda
